@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "217159971607",
+    "firebase_url": "https://l-j-dashboard-8oq05n-default-rtdb.firebaseio.com",
+    "project_id": "l-j-dashboard-8oq05n",
+    "storage_bucket": "l-j-dashboard-8oq05n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217159971607:android:c05fcea7b2020f50cabd52",
+        "android_client_info": {
+          "package_name": "com.mycompany.ljdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QDqbRAHqjS_RAklrLmXIYvmGscQ9yUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
